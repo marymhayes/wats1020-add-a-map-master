@@ -1,0 +1,46 @@
+
+.jumbotron {
+  text-align: center;
+}
+
+#home {
+  color: #40591d;
+  font-weight: bold;
+}
+
+h2 {
+  color: #81b33a;
+}
+
+.carousel-caption {
+  font-size: 125%;
+}
+
+.carousel-inner {
+  margin: auto;
+  width: 75%;
+}
+
+blockquote {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: #928e8e;
+}
+dl {
+    -webkit-column-count: 2; /* Chrome, Safari, Opera */
+    -moz-column-count: 2; /* Firefox */
+    column-count: 2;
+}
+
+dt {
+  color: #928e8e;
+}
+
+#map-container{
+    height: 540px;
+}
+
+a{
+  color: #b33a81;
+}
